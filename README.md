@@ -90,3 +90,6 @@ Adicionar NPCs em movimento
 Adicionar som ambiente e efeitos
 
 Transformar em um jogo completo com novas fases
+<img width="1182" height="914" alt="image" src="https://github.com/user-attachments/assets/dc0dcbfc-4472-4640-a935-b56944d16f01" />
+
+
